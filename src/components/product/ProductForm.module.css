@@ -1,0 +1,30 @@
+.form {
+    position : relative ;
+    top : 20%;
+    left : 30%;
+    background-color: #3f3f3f;
+    padding : 20px 20px ;
+    width : 40%;
+    border-radius: 12px;
+}
+
+.form label {
+    margin-left: 30%;
+    font-size: large;
+    color : white;
+}
+
+.form input {
+    width: 100%;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.form button {
+    background-color : purple;
+    color : white;
+    padding : 5px;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-left: 40%;
+}
